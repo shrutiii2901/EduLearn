@@ -1,0 +1,6 @@
+com\auth\auth_service\AuthServiceApplication.class
+com\auth\auth_service\security\SecurityConfig.class
+com\auth\auth_service\repository\UserRepository.class
+com\auth\auth_service\controller\AuthController.class
+com\auth\auth_service\entity\User.class
+com\auth\auth_service\service\AuthService.class
