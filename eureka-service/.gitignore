@@ -31,3 +31,15 @@ build/
 
 ### VS Code ###
 .vscode/
+
+target/
+.mvn/
+.idea/
+*.iml
+*.log
+.vscode/
+.DS_Store
+
+.gitignore
+.gitattributes
+
