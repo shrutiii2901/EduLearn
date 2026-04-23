@@ -1,0 +1,30 @@
+# 🔥 BUILD FILES
+target/
+build/
+
+# 🔥 IDE FILES
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# 🔥 VS CODE
+.vscode/
+
+# 🔥 OS FILES
+.DS_Store
+Thumbs.db
+
+# 🔥 LOG FILES
+*.log
+
+# 🔥 TEMP FILES
+*.tmp
+
+# # 🔥 MAVEN WRAPPER (ONLY IF YOU REALLY WANT TO IGNORE)
+# .mvn/
+# mvnw
+# mvnw.cmd
+
+
